@@ -8,6 +8,7 @@ A neural network architecture(CNN+LSTM) that automatically generates captions fr
 * Word embeddings are generated from captions for training images. NLTK was used for working with processing of captions.
 * Implemented an RNN decoder using LSTM cells.
 * Trained the network for nearly 3 hrs using GPU to achieve average loss of about 2%.
+<img src='images/lowest_loss_perplexity.png' width=100% height=100%/>
 * Obtained outputs for some test images to understand efficiency of the trained network.
 
 <img src='images/encoder-decoder.png' width=100% height=100%/>

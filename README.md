@@ -10,4 +10,4 @@ A neural network architecture(CNN+LSTM) that automatically generates captions fr
 * Trained the network for nearly 3 hrs using GPU to achieve average loss of about 2%.
 * Obtained outputs for some test images to understand efficiency of the trained network.
 
-(https://https://github.com/Noob-can-Compile/Automatic-Image-Captioning/blob/master/images/encoder-decoder.png)
+<img src='images/encoder-decoder.png' width=100% height=100%/>

@@ -7,7 +7,7 @@ A neural network architecture(CNN+LSTM) that automatically generates captions fr
 * Feature vectors for images are generated using a CNN based on the ResNet architecture by Google.
 * Word embeddings are generated from captions for training images. NLTK was used for working with processing of captions.
 * Implemented an RNN decoder using LSTM cells.
-* Trained the network for nearly 3 hrs using GPU to achieve average loss of about 2%.
+* Trained the network for more than 6 hrs for 3 epochs using GPU to achieve average loss of about 2%.
 
   <img src='images/lowest_loss_perplexity.png' width=100% height=100%/>
   
